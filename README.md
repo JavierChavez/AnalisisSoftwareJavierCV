@@ -21,8 +21,11 @@
 
 # :notebook: Unidad 1
 
-**:clipboard: Carpeta Blog**
+**:clipboard: Blog**
 * [C0.1 Integrar equipos](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo_ChavezVargasJavier.md)
+
+**:clipboard: PDF**
+* [C0.1 Integrar equipos](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C0.1_IntegrarEquiposdeTrabajo_ChavezVargasJavier.pdf)
   
 
 
