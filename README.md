@@ -24,7 +24,7 @@
 **:clipboard: Carpeta Blog**
 * [C0.1 Integrar equipos](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo_ChavezVargasJavier.md)
   
-**:paperclip: Carpeta Docs**
+
 
 
 
