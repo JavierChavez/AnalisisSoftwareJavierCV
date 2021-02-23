@@ -9,13 +9,13 @@
 
 -**Numero de control:** 17212918
 
-**Carrera:** Ing. TIC
+-**Carrera:** Ing. TIC
 
-**Nombre Del equipo:** Ethereal Arts
+-**Nombre Del equipo:** Ethereal Arts
 
-**Nombre del maestro:** Jaime Leonardo Enriquez Alvarez.
+-**Nombre del maestro:** Jaime Leonardo Enriquez Alvarez.
 
-**Materia:** Analisis Avanzado de Software
+-**Materia:** Analisis Avanzado de Software
 
 # :clipboard: Indice #
 
