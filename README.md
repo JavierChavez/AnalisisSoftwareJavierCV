@@ -1,4 +1,4 @@
-# Analisis Avanzado de Software JCV
+# Análisis Avanzado de Software JCV
 ![](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Img/liston%20de%20logos%20oficiales%20educacion-tecnm-itt.png?raw=true)
 ![](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Img/TECNOLOGIAS-DE-LA-INFORMACION-Y-COMUNICACIONES_HEADING1-2048x672.png?raw=true)
 
@@ -7,7 +7,7 @@
 
 -**Nombre Del alumno:** Chavez Vargas Javier
 
--**Numero de control:** 17212918
+-**Número de control:** 17212918
 
 -**Carrera:** Ing. TIC
 
@@ -15,9 +15,9 @@
 
 -**Nombre del maestro:** Jaime Leonardo Enriquez Alvarez.
 
--**Materia:** Analisis Avanzado de Software
+-**Materia:** Análisis Avanzado de Software
 
-# :clipboard: Indice #
+# :clipboard: Índice #
 
 # :books: Unidad 1
 
