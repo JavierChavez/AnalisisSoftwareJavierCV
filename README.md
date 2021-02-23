@@ -5,18 +5,17 @@
 
 # :page_facing_up: Información #
 
-**Nombre Del alumno:** Soria Marquez Guillermo
+**Nombre Del alumno:** Chavez Vargas Javier
 
-**Numero de control:** 17210648.
+**Numero de control:** 17212918
 
-**Carrera:** Sistemas computacionales.
+**Carrera:** Ing. TIC
 
-**Nombre Del equipo:** Zerox
+**Nombre Del equipo:** Ethereal Arts
 
 **Nombre del maestro:** Jaime Leonardo Enriquez Alvarez.
 
-**Materia:** Analisis Avanzado de
-Software
+**Materia:** Analisis Avanzado de Software
 
 # :open_file_folder: Indice #
 
