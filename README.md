@@ -4,7 +4,7 @@
 ![](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Img/TECNOLOGIAS-DE-LA-INFORMACION-Y-COMUNICACIONES_HEADING1-2048x672.png?raw=true)
 
 
-# :information_source: Información ##
+# :information_source: Información :information_source: #
 
 -**Nombre Del alumno:** Chavez Vargas Javier
 
@@ -18,9 +18,9 @@
 
 -**Materia:** Análisis Avanzado de Software
 
-# :clipboard: Índice #
+# :clipboard: Índice :clipboard: #
 
-## :books: Unidad 1
+# :books: Unidad 1 :books: #
 
 **:open_file_folder: Blog**
 * [C0.1 Integrar equipos](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo_ChavezVargasJavier.md)
