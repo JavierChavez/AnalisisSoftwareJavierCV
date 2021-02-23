@@ -20,7 +20,7 @@
 
 # :clipboard: Índice #
 
-# :books: Unidad 1
+## :books: Unidad 1
 
 **:open_file_folder: Blog**
 * [C0.1 Integrar equipos](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo_ChavezVargasJavier.md)
