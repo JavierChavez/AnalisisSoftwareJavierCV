@@ -22,7 +22,7 @@
 # :notebook: Unidad 1
 
 **:clipboard: Carpeta Blog**
-* [C0.1 Integrar equipos](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Blog/C0.1%20Integrar%20equipos_GuillermoSoriaMarquez.md)
+* [C0.1 Integrar equipos](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo_ChavezVargasJavier.md)
   
 **:paperclip: Carpeta Docs**
 
