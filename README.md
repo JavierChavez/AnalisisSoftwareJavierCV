@@ -5,9 +5,9 @@
 
 # :information_source: Información #
 
-**Nombre Del alumno:** Chavez Vargas Javier
+-**Nombre Del alumno:** Chavez Vargas Javier
 
-**Numero de control:** 17212918
+-**Numero de control:** 17212918
 
 **Carrera:** Ing. TIC
 
