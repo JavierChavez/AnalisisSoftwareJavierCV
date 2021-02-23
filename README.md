@@ -1,8 +1,7 @@
 # Analisis Avanzado de Software JCV
 ![](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Img/liston%20de%20logos%20oficiales%20educacion-tecnm-itt.png?raw=true)
-<img align="center" ![](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Img/TECNOLOGIAS-DE-LA-INFORMACION-Y-COMUNICACIONES_HEADING1-2048x672.png?raw=true)>
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  < ![](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Img/TECNOLOGIAS-DE-LA-INFORMACION-Y-COMUNICACIONES_HEADING1-2048x672.png?raw=true) >
 </p>
 
 # :page_facing_up: Información #
