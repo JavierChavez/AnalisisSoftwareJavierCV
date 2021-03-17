@@ -23,10 +23,14 @@
 # :books: Unidad 1 :books: #
 
 **:open_file_folder: Blog**
+
+:bust_in_silhouette: Individuales 
+
 * [C0.1 Integrar equipos](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo_ChavezVargasJavier.md)
 * [C0.2  Tipo de sistema de información](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C0.2_Tipo_de_Sistema_Desarrollar_ChavezVargasJAvier.md)
 * [C0.3  Diagrama de flujo sobre el proceso de desarrollo](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C0.3_DiagramadeFlujo_Proceso.md)
 
+:busts_in_silhouette: Equipo
 
 * [A0.1_Data_collection_through_the_interview](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A0.1_Data_collection_through_the_interview_ChavezVargasJavier.md)
 
