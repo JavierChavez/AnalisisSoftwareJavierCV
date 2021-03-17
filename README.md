@@ -32,7 +32,7 @@
 
 :busts_in_silhouette: Equipo
 
-* [A0.1_Data_collection_through_the_interview](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A0.1_Data_collection_through_the_interview_ChavezVargasJavier.md)
+* [A0.1_Recopilación de datos por medio de la entrevista](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A0.1_Data_collection_through_the_interview_ChavezVargasJavier.md)
 
 
 **:open_file_folder:: PDF**
@@ -44,6 +44,6 @@
 * [C0.3  Diagrama de flujo sobre el proceso de desarrollo](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C0.3_DiagramadeFlujoProcesodesarrollo_ChavezVargasJavier.pdf)
 
 :busts_in_silhouette: Equipo
-* [A0.1_Data_collection_through_the_interview](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A0.1_Data_collection_through_the_interview_ChavezVargasJavier.pdf)
+* [A0.1_Recopilación de datos por medio de la entrevista](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A0.1_Data_collection_through_the_interview_ChavezVargasJavier.pdf)
 
 
