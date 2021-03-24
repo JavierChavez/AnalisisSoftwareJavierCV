@@ -20,6 +20,9 @@
 
 # :clipboard: Índice :clipboard: #
 
+
+
+<!-- Unidad 1 -->
 # :books: Unidad 1 :books: #
 
 **:open_file_folder: Blog**
@@ -46,36 +49,29 @@
 
 
 
-<!-- Markdown está basado en HTML, así que cualquier archivo HTML es Markdown
-válido, eso significa que podemos usar elementos HTML en Markdown como, por
-ejemplo, el comentario y no serán afectados por un parseador Markdown. Aún 
-así si creas un elemento HTML en tu archivo Markdown no podrás usar sintaxis
-Markdown dentro de él. -->
+<!-- Unidad 2 -->
 
-# :books: Unidad 1 :books: #
+# :books: Unidad 2 :books: #
 
 **:open_file_folder: Blog**
 
 :bust_in_silhouette: Individuales 
 
-* [C0.1 Integrar equipos](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo_ChavezVargasJavier.md)
-* [C0.2  Tipo de sistema de información](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C0.2_Tipo_de_Sistema_Desarrollar_ChavezVargasJAvier.md)
-* [C0.3  Diagrama de flujo sobre el proceso de desarrollo](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C0.3_DiagramadeFlujo_Proceso.md)
+* [C1.1 Definición de Objetivo general, especificos y modelado del negocio.](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C1.1_ObjetivosGenerales_especificos_ChavezVargasJavier.md)
 
 :busts_in_silhouette: Equipo
 
-* [A0.1_Recopilación de datos por medio de la entrevista](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A0.1_Data_collection_through_the_interview_ChavezVargasJavier.md)
+* [A0.1_Recopilación de datos por medio de la entrevista]
 
 
 **:open_file_folder:: PDF**
 
 
 :bust_in_silhouette: Individuales 
-* [C0.1 Integrar equipos](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C0.1_IntegrarEquiposdeTrabajo_ChavezVargasJavier.pdf)
-* [C0.2  Tipo de sistema de información](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C0.2_Tipo_de_Sistema_Desarrollar_ChavezVargasJavier.pdf) 
-* [C0.3  Diagrama de flujo sobre el proceso de desarrollo](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C0.3_DiagramadeFlujoProcesodesarrollo_ChavezVargasJavier.pdf)
+* [C1.1 Definición de Objetivo general, especificos y modelado del negocio.](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C1.1_ObjetivosGenerales_especificos_ChavezVargasJavier.pdf)
+
 
 :busts_in_silhouette: Equipo
-* [A0.1_Recopilación de datos por medio de la entrevista](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A0.1_Data_collection_through_the_interview_ChavezVargasJavier.pdf)
+
 
 
