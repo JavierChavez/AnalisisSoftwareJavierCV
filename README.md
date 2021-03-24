@@ -61,7 +61,6 @@
 
 :busts_in_silhouette: Equipo
 
-* [A0.1_Recopilación de datos por medio de la entrevista]
 
 
 **:open_file_folder:: PDF**
