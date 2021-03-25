@@ -69,7 +69,6 @@
 :bust_in_silhouette: Individuales 
 * [C1.1 Definición de Objetivo general, especificos y modelado del negocio.](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C1.1_ObjetivosGenerales_especificos_ChavezVargasJavier.pdf)
 
-
 :busts_in_silhouette: Equipo
 
 
