@@ -46,7 +46,7 @@
 * [C0.2  Tipo de sistema de información](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C0.2_Tipo_de_Sistema_Desarrollar_ChavezVargasJavier.pdf) 
 * [C0.3  Diagrama de flujo sobre el proceso de desarrollo](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C0.3_DiagramadeFlujoProcesodesarrollo_ChavezVargasJavier.pdf)
 
-
+* [A0.1_Recopilación de datos por medio de la entrevista](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A0.1_Data_collection_through_the_interview_ChavezVargasJavier.pdf)
 
 
 <!-- Unidad 2 -->
