@@ -63,6 +63,7 @@
 
 * [C1.1 Definición de Objetivo general, especificos y modelado del negocio.](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C1.1_ObjetivosGenerales_especificos_ChavezVargasJavier.md)
 * [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C1.2_Acta_Constitutiva_del_proyecto_ChavezVargasJavier.md)
+* [C1.3_Requisitos del sistema para el caso de estudio](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C1.3_Requisitos_del_sistema_para_caso_de_estudio_ChavezVargasJavier.md)
 
 
 :busts_in_silhouette: Equipo
@@ -75,6 +76,8 @@
 :bust_in_silhouette: Individuales 
 * [C1.1 Definición de Objetivo general, especificos y modelado del negocio.](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C1.1_ObjetivosGenerales_especificos_ChavezVargasJavier.pdf)
 * [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C1.2_Acta_Constitutiva_del_proyecto_ChavezVargasJavier.pdf)
+
+* [C1.3_Requisitos del sistema para el caso de estudio](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C1.3_Requisitos_del_sistema_para_caso_de_estudio_ChavezVargasJavier.pdf)
 
 
 :busts_in_silhouette: Equipo
