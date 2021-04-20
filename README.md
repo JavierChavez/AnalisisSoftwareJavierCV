@@ -68,7 +68,7 @@
 
 :busts_in_silhouette: Equipo
 
-
+* [A1.0 Consolidacion del acta constitutiva](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A1.0_Consolidation_of_the_constitutive_act_ChavezVargasJavier.md)
 
 **:open_file_folder:: PDF**
 
@@ -83,4 +83,5 @@
 :busts_in_silhouette: Equipo
 
 
+* [A1.0 Consolidacion del acta constitutiva](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A1.0_Consolidation_of_the_constitutive_act_ChavezVargasJavier.pdf)
 
