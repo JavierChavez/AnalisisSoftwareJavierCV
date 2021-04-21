@@ -53,6 +53,14 @@
 * [A0.1_Recopilación de datos por medio de la entrevista](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A0.1_Data_collection_through_the_interview_ChavezVargasJavier.pdf)
 
 
+
+
+
+
+
+
+
+
 <!-- Unidad 2 -->
 
 # :books: Unidad 2 :books: #
@@ -64,6 +72,7 @@
 * [C1.1 Definición de Objetivo general, especificos y modelado del negocio.](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C1.1_ObjetivosGenerales_especificos_ChavezVargasJavier.md)
 * [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C1.2_Acta_Constitutiva_del_proyecto_ChavezVargasJavier.md)
 * [C1.3_Requisitos del sistema para el caso de estudio](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C1.3_Requisitos_del_sistema_para_caso_de_estudio_ChavezVargasJavier.md)
+* [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C1.4_Modelado_de_requisitos_a_trav%C3%A9s_de%20_diagramas_de_comportamiento_ChavezVargasJavier.md)
 
 
 :busts_in_silhouette: Equipo
@@ -78,6 +87,8 @@
 * [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C1.2_Acta_Constitutiva_del_proyecto_ChavezVargasJavier.pdf)
 
 * [C1.3_Requisitos del sistema para el caso de estudio](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C1.3_Requisitos_del_sistema_para_caso_de_estudio_ChavezVargasJavier.pdf)
+
+* [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C1.4_Modelado_de_requisitos_a_trav%C3%A9s_de%20_diagramas_de_comportamiento_ChavezVargasJavier.pdf)
 
 
 :busts_in_silhouette: Equipo
