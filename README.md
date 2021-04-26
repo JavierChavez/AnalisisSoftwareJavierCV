@@ -73,6 +73,7 @@
 * [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C1.2_Acta_Constitutiva_del_proyecto_ChavezVargasJavier.md)
 * [C1.3_Requisitos del sistema para el caso de estudio](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C1.3_Requisitos_del_sistema_para_caso_de_estudio_ChavezVargasJavier.md)
 * [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C1.4_Modelado_de_requisitos_a_trav%C3%A9s_de%20_diagramas_de_comportamiento_ChavezVargasJavier.md)
+* [C1.5  Modelado de requisitos a través de diagramas estructurados](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/C1.5_UML_Estado_Componentes_Distribucion_ChavezVargasJavier%20-%20Copy.md)
 
 
 :busts_in_silhouette: Equipo
@@ -89,7 +90,7 @@
 * [C1.3_Requisitos del sistema para el caso de estudio](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C1.3_Requisitos_del_sistema_para_caso_de_estudio_ChavezVargasJavier.pdf)
 
 * [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C1.4_Modelado_de_requisitos_a_trav%C3%A9s_de%20_diagramas_de_comportamiento_ChavezVargasJavier.pdf)
-
+* [C1.5  Modelado de requisitos a través de diagramas estructurados](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/C1.5_UML_Estado_Componentes_Distribucion_ChavezVargasJavier%20-%20Copy.pdf)
 
 :busts_in_silhouette: Equipo
 
