@@ -80,6 +80,8 @@
 
 * [A1.0 Consolidacion del acta constitutiva](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A1.0_Consolidation_of_the_constitutive_act_ChavezVargasJavier.md)
 * [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A1.1_UML_Requirements_Modeling_ChavezVargasJavier.md)
+* [A2.1 Especificación de requisitos y documentación]()
+
 
 **:open_file_folder:: PDF**
 
@@ -98,4 +100,4 @@
 
 * [A1.0 Consolidacion del acta constitutiva](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A1.0_Consolidation_of_the_constitutive_act_ChavezVargasJavier.pdf)
 * [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A1.1_UML_Requirements_Modeling_ChavezVargasJavier.pdf)
-
+* [A2.1 Especificación de requisitos y documentación]()
