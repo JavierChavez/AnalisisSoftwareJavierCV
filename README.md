@@ -81,7 +81,7 @@
 * [A1.0 Consolidacion del acta constitutiva](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A1.0_Consolidation_of_the_constitutive_act_ChavezVargasJavier.md)
 * [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A1.1_UML_Requirements_Modeling_ChavezVargasJavier.md)
 * [A2.1 Especificación de requisitos y documentación](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A2.1_ChavezJavier_EtherealArts.md)
-
+* [A2.2 Diseño de la arquitectura 4+1](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A2.2_4%2B1_architecture_design_ChavezVargasJavier.md)
 
 **:open_file_folder:: PDF**
 
@@ -101,3 +101,4 @@
 * [A1.0 Consolidacion del acta constitutiva](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A1.0_Consolidation_of_the_constitutive_act_ChavezVargasJavier.pdf)
 * [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A1.1_UML_Requirements_Modeling_ChavezVargasJavier.pdf)
 * [A2.1 Especificación de requisitos y documentación](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A2.1_ChavezJavier_EtherealArts.pdf)
+* [A2.2 Diseño de la arquitectura 4+1](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A2.2_4%2B1_architecture_design_ChavezVargasJavier.pdf)
