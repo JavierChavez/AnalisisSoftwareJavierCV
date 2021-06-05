@@ -104,3 +104,24 @@
 * [A2.1 Especificación de requisitos y documentación](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A2.1_ChavezJavier_EtherealArts.pdf)
 * [A2.2 Diseño de la arquitectura 4+1](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A2.2_4%2B1_architecture_design_ChavezVargasJavier.pdf)
 * [A2.3 Patrones de arquitectura de software](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A2.3%20Software%20architecture%20patterns.pdf)
+
+
+
+
+<!-- Unidad 3 -->
+
+# :books: Unidad 3 :books: #
+
+**:open_file_folder: Blog**
+
+:bust_in_silhouette: Individuales 
+
+:busts_in_silhouette: Equipo
+
+
+**:open_file_folder: PDF**
+
+:bust_in_silhouette: Individuales 
+
+:busts_in_silhouette: Equipo
+
