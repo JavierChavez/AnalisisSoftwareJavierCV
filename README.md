@@ -118,10 +118,13 @@
 
 :busts_in_silhouette: Equipo
 
+* [ A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/blog/A3.1_Scrums_First_Phase_ChavezVargasJavier.md)
+
 
 **:open_file_folder: PDF**
 
 :bust_in_silhouette: Individuales 
 
 :busts_in_silhouette: Equipo
+* [ A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A3.1_Scrums_First_Phase_ChavezVargasJavier.pdf)
 
