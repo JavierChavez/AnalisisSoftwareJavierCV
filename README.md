@@ -121,6 +121,7 @@
 * [ A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A3.1_Scrums_First_Phase_ChavezVargasJavier.md)
 * [A3.2 Fase inicio: Artefactos](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A3.2_Initial_Phase_Artifacts_ChavezVargasJavier.md)
 * [A3.3 Arquitectura de software a traves del Modelo C4](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A3.3_Software_architecture_through_C4%20Model_ChavezVargasJavier.md)
+* [A3.4  Fase planificacion y estimacion: Artefactos](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/Blog/A3.4_Planning_and_estimation_phase_Artifacts_ChavezVargasJavier.md)
 
 **:open_file_folder: PDF**
 
@@ -129,5 +130,6 @@
 :busts_in_silhouette: Equipo
 * [ A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A3.1_Scrums_First_Phase_ChavezVargasJavier.pdf)
 * [A3.2 Fase inicio: Artefactos](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A3.2_Initial_Phase_Artifacts_ChavezVargasJavier.pdf)
-* [A3.3 Arquitectura de software a traves del Modelo C4](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A3.3_Software_architecture_through_C4%20Model_ChavezVargasJavier.pdf)
+* [A3.3 Arquitectura de software a traves del Modelo C4](https://github.com/JavierChavez/AnalisisSoftwareJavierCV/blob/main/PDF/A3.4_Planning_and_estimation_phase_Artifacts_ChavezVargasJavier.pdf)
+
 
